@@ -32,9 +32,6 @@ I'm a Junior Frontend Developer passionate about creating beautiful and function
 - **Tools:** Git, GitHub, Gulp
 - **Others:** Responsive design, UI/UX design principles
 
-## 📊 Skills Chart
-
-![Skills Chart](https://github.com/shhumen/skills-chart)
 
 ## 📫 Connect with Me
 
